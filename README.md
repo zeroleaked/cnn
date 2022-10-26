@@ -1,0 +1,3 @@
+# Simple 2D Filter
+Input 9x9 8-bit array, filter 3x3 constant array, output 7x7 8-bit array
+Did this for an assignment. Might as well put it up here...
